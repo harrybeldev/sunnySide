@@ -286,7 +286,7 @@ nav {
 
 @media (min-width: 760px) {
   body {
-    width: 1440px;
+    width: 100vw;
   }
 
   .header-nav {
